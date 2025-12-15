@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Whaltayr Josy</h1>
+<h1 align="center">Hi 👋, I'm  Josivaldo FV de vasconvelos</h1>
 <h3 align="center">A passionate and hardworking frontend developer from Angola</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whaltayr&label=Profile%20views&color=0e75b6&style=flat" alt="whaltayr" /> </p>
